@@ -1,0 +1,7 @@
+{
+  "E31001": {
+    "decoder": "vendors/abeeway/E31001/decoder.js",
+    "encoder": "vendors/abeeway/E31001/encoder.js",
+    "codec": "vendors/abeeway/E31001/codec.js"
+  }
+}
